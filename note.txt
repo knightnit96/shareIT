@@ -1,0 +1,5 @@
+﻿Một số phần chưa hoàn thiện:
+1/ Giao diện mới
+2/ Chức năng nâng cao (chọn tất cả, xóa tất cả)
+3/ Chưa giải quyết hết các trường hợp liên quan của nút changeactive và changeslide trong trang AdminIndexNews 
+
